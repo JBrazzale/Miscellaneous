@@ -1,4 +1,5 @@
-// Calendar Widget with images from unsplash. built on IOS 15
+// Calendar Widget with images from Unsplash. built on IOS 15
+// This was built in the Scriptable app
 const IMAGE_SOURCE = "Unsplash"
 const TERMS = "Nature"
 
